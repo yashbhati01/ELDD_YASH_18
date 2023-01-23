@@ -1,0 +1,1 @@
+cmd_/home/training/Desktop/ELDD_Yash_18/file.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/training/Desktop/ELDD_Yash_18/file.ko /home/training/Desktop/ELDD_Yash_18/file.o /home/training/Desktop/ELDD_Yash_18/file.mod.o;  true
